@@ -11,6 +11,7 @@ I chose github because i hate linkedin.
 ## Education: Formal  
 * ACCA Diploma in Accounting and Business (2017)  
 * Diploma in Information Technology (2014)  
+* LCCI Level 3 Diploma in Accountant (2016)
 * High school graduate (2013)  
 
 ## Self-learned-(from internet) - Programming  
